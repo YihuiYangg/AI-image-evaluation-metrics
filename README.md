@@ -23,7 +23,7 @@ INDIVIDUAL_PROJECT/
 │
 ├─ evaluate_images.py
 ├─ README.md
-├─ requirements.txt
+│
 │
 ├─ dataset/
 │  ├─ gpt/
