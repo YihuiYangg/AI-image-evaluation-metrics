@@ -1,0 +1,121 @@
+model,prompt_id,variant,filename,filepath,prompt_text,clip_score
+gpt,p01,A,p01_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p01_A.png,"A red apple on a wooden table, top-down overhead view, centered composition",0.30932846665382385
+gpt,p01,B,p01_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p01_B.png,"A red apple on a wooden table, eye-level front view, medium shot",0.3245079815387726
+gpt,p01,C,p01_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p01_C.png,"A red apple on a wooden table, low-angle view from below, wide shot",0.3348787724971771
+gpt,p01,D,p01_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p01_D.png,"A red apple on a wooden table, extreme close-up, shallow depth of field",0.3139041066169739
+gpt,p02,A,p02_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p02_A.png,"A golden retriever sitting in a park, top-down overhead view, centered composition",0.30239593982696533
+gpt,p02,B,p02_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p02_B.png,"A golden retriever sitting in a park, eye-level front view, medium shot",0.32620877027511597
+gpt,p02,C,p02_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p02_C.png,"A golden retriever sitting in a park, low-angle view from below, wide shot",0.3449399471282959
+gpt,p02,D,p02_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p02_D.png,"A golden retriever sitting in a park, extreme close-up, shallow depth of field",0.3051667809486389
+gpt,p03,A,p03_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p03_A.png,"A blue sports car on a highway, top-down overhead view, centered composition",0.31487181782722473
+gpt,p03,B,p03_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p03_B.png,"A blue sports car on a highway, eye-level front view, medium shot",0.306230753660202
+gpt,p03,C,p03_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p03_C.png,"A blue sports car on a highway, low-angle view from below, wide shot",0.3046807050704956
+gpt,p03,D,p03_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p03_D.png,"A blue sports car on a highway, extreme close-up, shallow depth of field",0.2997085750102997
+gpt,p04,A,p04_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p04_A.png,"A white ceramic teacup on a marble surface, top-down overhead view, centered composition",0.2744656503200531
+gpt,p04,B,p04_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p04_B.png,"A white ceramic teacup on a marble surface, eye-level front view, medium shot",0.2768245339393616
+gpt,p04,C,p04_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p04_C.png,"A white ceramic teacup on a marble surface, low-angle view from below, wide shot",0.2908507287502289
+gpt,p04,D,p04_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p04_D.png,"A white ceramic teacup on a marble surface, extreme close-up, shallow depth of field",0.2673313021659851
+gpt,p05,A,p05_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p05_A.png,"A mountain landscape at sunset, top-down overhead view, centered composition",0.3032902479171753
+gpt,p05,B,p05_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p05_B.png,"A mountain landscape at sunset, eye-level front view, medium shot",0.28440266847610474
+gpt,p05,C,p05_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p05_C.png,"A mountain landscape at sunset, low-angle view from below, wide shot",0.28043267130851746
+gpt,p05,D,p05_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p05_D.png,"A mountain landscape at sunset, extreme close-up, shallow depth of field",0.2935870587825775
+gpt,p06,A,p06_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p06_A.png,"A busy street market in Tokyo at night, top-down overhead view, centered composition",0.3353135883808136
+gpt,p06,B,p06_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p06_B.png,"A busy street market in Tokyo at night, eye-level front view, medium shot",0.32136085629463196
+gpt,p06,C,p06_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p06_C.png,"A busy street market in Tokyo at night, low-angle view from below, wide shot",0.3256472945213318
+gpt,p06,D,p06_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p06_D.png,"A busy street market in Tokyo at night, extreme close-up, shallow depth of field",0.3059123456478119
+gpt,p07,A,p07_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p07_A.png,"A futuristic city skyline with flying cars, top-down overhead view, centered composition",0.3454674184322357
+gpt,p07,B,p07_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p07_B.png,"A futuristic city skyline with flying cars, eye-level front view, medium shot",0.3547796607017517
+gpt,p07,C,p07_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p07_C.png,"A futuristic city skyline with flying cars, low-angle view from below, wide shot",0.3329106569290161
+gpt,p07,D,p07_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p07_D.png,"A futuristic city skyline with flying cars, extreme close-up, shallow depth of field",0.3188878297805786
+gpt,p08,A,p08_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p08_A.png,"A medieval castle surrounded by fog, top-down overhead view, centered composition",0.33626803755760193
+gpt,p08,B,p08_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p08_B.png,"A medieval castle surrounded by fog, eye-level front view, medium shot",0.2993575930595398
+gpt,p08,C,p08_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p08_C.png,"A medieval castle surrounded by fog, low-angle view from below, wide shot",0.30524080991744995
+gpt,p08,D,p08_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p08_D.png,"A medieval castle surrounded by fog, extreme close-up, shallow depth of field",0.33904874324798584
+gpt,p09,A,p09_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p09_A.png,"An underwater coral reef with colorful fish, top-down overhead view, centered composition",0.33964240550994873
+gpt,p09,B,p09_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p09_B.png,"An underwater coral reef with colorful fish, eye-level front view, medium shot",0.34149932861328125
+gpt,p09,C,p09_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p09_C.png,"An underwater coral reef with colorful fish, low-angle view from below, wide shot",0.33627864718437195
+gpt,p09,D,p09_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p09_D.png,"An underwater coral reef with colorful fish, extreme close-up, shallow depth of field",0.3288056254386902
+gpt,p10,A,p10_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p10_A.png,"A classroom with students taking an exam, top-down overhead view, centered composition",0.3312962055206299
+gpt,p10,B,p10_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p10_B.png,"A classroom with students taking an exam, eye-level front view, medium shot",0.2846815288066864
+gpt,p10,C,p10_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p10_C.png,"A classroom with students taking an exam, low-angle view from below, wide shot",0.2992621958255768
+gpt,p10,D,p10_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p10_D.png,"A classroom with students taking an exam, extreme close-up, shallow depth of field",0.2804953157901764
+gpt,p11,A,p11_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p11_A.png,"A cyberpunk street with neon lights, top-down overhead view, centered composition",0.37531253695487976
+gpt,p11,B,p11_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p11_B.png,"A cyberpunk street with neon lights, eye-level front view, medium shot",0.33015716075897217
+gpt,p11,C,p11_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p11_C.png,"A cyberpunk street with neon lights, low-angle view from below, wide shot",0.324452668428421
+gpt,p11,D,p11_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p11_D.png,"A cyberpunk street with neon lights, extreme close-up, shallow depth of field",0.32886213064193726
+gpt,p12,A,p12_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p12_A.png,"A rainforest waterfall with mist, top-down overhead view, centered composition",0.32680079340934753
+gpt,p12,B,p12_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p12_B.png,"A rainforest waterfall with mist, eye-level front view, medium shot",0.3224864602088928
+gpt,p12,C,p12_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p12_C.png,"A rainforest waterfall with mist, low-angle view from below, wide shot",0.33441147208213806
+gpt,p12,D,p12_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p12_D.png,"A rainforest waterfall with mist, extreme close-up, shallow depth of field",0.2979811728000641
+gpt,p13,A,p13_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p13_A.png,"A portrait in impressionist painting style, top-down overhead view, centered composition",0.2693135440349579
+gpt,p13,B,p13_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p13_B.png,"A portrait in impressionist painting style, eye-level front view, medium shot",0.2788652777671814
+gpt,p13,C,p13_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p13_C.png,"A portrait in impressionist painting style, low-angle view from below, wide shot",0.3264232873916626
+gpt,p13,D,p13_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p13_D.png,"A portrait in impressionist painting style, extreme close-up, shallow depth of field",0.28992751240730286
+gpt,p14,A,p14_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p14_A.png,"A surreal dreamscape with floating islands, top-down overhead view, centered composition",0.2943832278251648
+gpt,p14,B,p14_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p14_B.png,"A surreal dreamscape with floating islands, eye-level front view, medium shot",0.29904109239578247
+gpt,p14,C,p14_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p14_C.png,"A surreal dreamscape with floating islands, low-angle view from below, wide shot",0.2860977351665497
+gpt,p14,D,p14_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p14_D.png,"A surreal dreamscape with floating islands, extreme close-up, shallow depth of field",0.32184094190597534
+gpt,p15,A,p15_A.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p15_A.png,"A minimalist black and white abstract artwork, top-down overhead view, centered composition",0.3240608870983124
+gpt,p15,B,p15_B.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p15_B.png,"A minimalist black and white abstract artwork, eye-level front view, medium shot",0.3163559138774872
+gpt,p15,C,p15_C.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p15_C.png,"A minimalist black and white abstract artwork, low-angle view from below, wide shot",0.3081258535385132
+gpt,p15,D,p15_D.png,C:\Users\31918\Desktop\individual project\dataset\gpt\p15_D.png,"A minimalist black and white abstract artwork, extreme close-up, shallow depth of field",0.30348092317581177
+jimeng,p01,A,p01_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p01_A.png,"A red apple on a wooden table, top-down overhead view, centered composition",0.32526448369026184
+jimeng,p01,B,p01_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p01_B.png,"A red apple on a wooden table, eye-level front view, medium shot",0.3121657371520996
+jimeng,p01,C,p01_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p01_C.png,"A red apple on a wooden table, low-angle view from below, wide shot",0.364961177110672
+jimeng,p01,D,p01_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p01_D.png,"A red apple on a wooden table, extreme close-up, shallow depth of field",0.3226330876350403
+jimeng,p02,A,p02_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p02_A.png,"A golden retriever sitting in a park, top-down overhead view, centered composition",0.31398624181747437
+jimeng,p02,B,p02_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p02_B.png,"A golden retriever sitting in a park, eye-level front view, medium shot",0.34882470965385437
+jimeng,p02,C,p02_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p02_C.png,"A golden retriever sitting in a park, low-angle view from below, wide shot",0.33750030398368835
+jimeng,p02,D,p02_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p02_D.png,"A golden retriever sitting in a park, extreme close-up, shallow depth of field",0.33418336510658264
+jimeng,p03,A,p03_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p03_A.png,"A blue sports car on a highway, top-down overhead view, centered composition",0.3190237581729889
+jimeng,p03,B,p03_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p03_B.png,"A blue sports car on a highway, eye-level front view, medium shot",0.2907102108001709
+jimeng,p03,C,p03_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p03_C.png,"A blue sports car on a highway, low-angle view from below, wide shot",0.3237811326980591
+jimeng,p03,D,p03_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p03_D.png,"A blue sports car on a highway, extreme close-up, shallow depth of field",0.3114125728607178
+jimeng,p04,A,p04_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p04_A.png,"A white ceramic teacup on a marble surface, top-down overhead view, centered composition",0.265820175409317
+jimeng,p04,B,p04_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p04_B.png,"A white ceramic teacup on a marble surface, eye-level front view, medium shot",0.306134432554245
+jimeng,p04,C,p04_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p04_C.png,"A white ceramic teacup on a marble surface, low-angle view from below, wide shot",0.3238620162010193
+jimeng,p04,D,p04_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p04_D.png,"A white ceramic teacup on a marble surface, extreme close-up, shallow depth of field",0.3126148283481598
+jimeng,p05,A,p05_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p05_A.png,"A mountain landscape at sunset, top-down overhead view, centered composition",0.2725108563899994
+jimeng,p05,B,p05_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p05_B.png,"A mountain landscape at sunset, eye-level front view, medium shot",0.2657410800457001
+jimeng,p05,C,p05_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p05_C.png,"A mountain landscape at sunset, low-angle view from below, wide shot",0.28332552313804626
+jimeng,p05,D,p05_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p05_D.png,"A mountain landscape at sunset, extreme close-up, shallow depth of field",0.33164775371551514
+jimeng,p06,A,p06_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p06_A.png,"A busy street market in Tokyo at night, top-down overhead view, centered composition",0.3360479176044464
+jimeng,p06,B,p06_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p06_B.png,"A busy street market in Tokyo at night, eye-level front view, medium shot",0.33787351846694946
+jimeng,p06,C,p06_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p06_C.png,"A busy street market in Tokyo at night, low-angle view from below, wide shot",0.3034124970436096
+jimeng,p06,D,p06_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p06_D.png,"A busy street market in Tokyo at night, extreme close-up, shallow depth of field",0.30232346057891846
+jimeng,p07,A,p07_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p07_A.png,"A futuristic city skyline with flying cars, top-down overhead view, centered composition",0.3162517249584198
+jimeng,p07,B,p07_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p07_B.png,"A futuristic city skyline with flying cars, eye-level front view, medium shot",0.34667524695396423
+jimeng,p07,C,p07_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p07_C.png,"A futuristic city skyline with flying cars, low-angle view from below, wide shot",0.33287155628204346
+jimeng,p07,D,p07_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p07_D.png,"A futuristic city skyline with flying cars, extreme close-up, shallow depth of field",0.2939893305301666
+jimeng,p08,A,p08_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p08_A.png,"A medieval castle surrounded by fog, top-down overhead view, centered composition",0.3458523750305176
+jimeng,p08,B,p08_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p08_B.png,"A medieval castle surrounded by fog, eye-level front view, medium shot",0.33160656690597534
+jimeng,p08,C,p08_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p08_C.png,"A medieval castle surrounded by fog, low-angle view from below, wide shot",0.33765700459480286
+jimeng,p08,D,p08_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p08_D.png,"A medieval castle surrounded by fog, extreme close-up, shallow depth of field",0.3452823758125305
+jimeng,p09,A,p09_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p09_A.png,"An underwater coral reef with colorful fish, top-down overhead view, centered composition",0.3177822232246399
+jimeng,p09,B,p09_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p09_B.png,"An underwater coral reef with colorful fish, eye-level front view, medium shot",0.31218841671943665
+jimeng,p09,C,p09_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p09_C.png,"An underwater coral reef with colorful fish, low-angle view from below, wide shot",0.3255891799926758
+jimeng,p09,D,p09_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p09_D.png,"An underwater coral reef with colorful fish, extreme close-up, shallow depth of field",0.30146855115890503
+jimeng,p10,A,p10_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p10_A.png,"A classroom with students taking an exam, top-down overhead view, centered composition",0.33555665612220764
+jimeng,p10,B,p10_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p10_B.png,"A classroom with students taking an exam, eye-level front view, medium shot",0.3145226240158081
+jimeng,p10,C,p10_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p10_C.png,"A classroom with students taking an exam, low-angle view from below, wide shot",0.3220953345298767
+jimeng,p10,D,p10_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p10_D.png,"A classroom with students taking an exam, extreme close-up, shallow depth of field",0.27040916681289673
+jimeng,p11,A,p11_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p11_A.png,"A cyberpunk street with neon lights, top-down overhead view, centered composition",0.3398303687572479
+jimeng,p11,B,p11_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p11_B.png,"A cyberpunk street with neon lights, eye-level front view, medium shot",0.3251892328262329
+jimeng,p11,C,p11_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p11_C.png,"A cyberpunk street with neon lights, low-angle view from below, wide shot",0.333187460899353
+jimeng,p11,D,p11_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p11_D.png,"A cyberpunk street with neon lights, extreme close-up, shallow depth of field",0.2591603398323059
+jimeng,p12,A,p12_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p12_A.png,"A rainforest waterfall with mist, top-down overhead view, centered composition",0.31170427799224854
+jimeng,p12,B,p12_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p12_B.png,"A rainforest waterfall with mist, eye-level front view, medium shot",0.2940043807029724
+jimeng,p12,C,p12_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p12_C.png,"A rainforest waterfall with mist, low-angle view from below, wide shot",0.3126116096973419
+jimeng,p12,D,p12_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p12_D.png,"A rainforest waterfall with mist, extreme close-up, shallow depth of field",0.3050250709056854
+jimeng,p13,A,p13_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p13_A.png,"A portrait in impressionist painting style, top-down overhead view, centered composition",0.31868401169776917
+jimeng,p13,B,p13_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p13_B.png,"A portrait in impressionist painting style, eye-level front view, medium shot",0.3359408974647522
+jimeng,p13,C,p13_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p13_C.png,"A portrait in impressionist painting style, low-angle view from below, wide shot",0.3391105830669403
+jimeng,p13,D,p13_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p13_D.png,"A portrait in impressionist painting style, extreme close-up, shallow depth of field",0.33374521136283875
+jimeng,p14,A,p14_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p14_A.png,"A surreal dreamscape with floating islands, top-down overhead view, centered composition",0.2828589379787445
+jimeng,p14,B,p14_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p14_B.png,"A surreal dreamscape with floating islands, eye-level front view, medium shot",0.30943211913108826
+jimeng,p14,C,p14_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p14_C.png,"A surreal dreamscape with floating islands, low-angle view from below, wide shot",0.30838099122047424
+jimeng,p14,D,p14_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p14_D.png,"A surreal dreamscape with floating islands, extreme close-up, shallow depth of field",0.30620095133781433
+jimeng,p15,A,p15_A.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p15_A.png,"A minimalist black and white abstract artwork, top-down overhead view, centered composition",0.28862905502319336
+jimeng,p15,B,p15_B.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p15_B.png,"A minimalist black and white abstract artwork, eye-level front view, medium shot",0.32411623001098633
+jimeng,p15,C,p15_C.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p15_C.png,"A minimalist black and white abstract artwork, low-angle view from below, wide shot",0.3393034338951111
+jimeng,p15,D,p15_D.png,C:\Users\31918\Desktop\individual project\dataset\Jimeng\p15_D.png,"A minimalist black and white abstract artwork, extreme close-up, shallow depth of field",0.2781387269496918
